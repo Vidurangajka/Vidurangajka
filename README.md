@@ -102,6 +102,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<!-- STM Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stm32/stm32-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keil/keil-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/iar/iar-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microchip/microchip-original.svg" width="40"/>
+
+<!-- FPGA Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vivado/vivado-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quartus/quartus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mentor/mentor-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/modelsim/modelsim-original.svg" width="40"/>
+
 
 </p> add more programming tools
 
