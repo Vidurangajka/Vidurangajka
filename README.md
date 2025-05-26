@@ -118,9 +118,9 @@
 
 ## 📊 GitHub Stats
 
-![Anjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjanaviduranga&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanaviduranga&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=anjanaviduranga&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![Anjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidurangajka&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidurangajka&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Vidurangajka&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
