@@ -67,7 +67,7 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anjana-viduranga-292153292/)  
-📧 Email: **vidurangajka.22@uom.lk**
+📧 Email: **vidurangajka.22@uom.lk** and **anjanaviduranga73@gmail.com**
 
 ---
 
