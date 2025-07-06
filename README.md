@@ -85,10 +85,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%2368A4DC.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![ROS2 Humble](https://img.shields.io/badge/ROS2%20Humble-%23007ACC.svg?style=for-the-badge&logo=ros&logoColor=white)
+
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧪 Design & Simulation
@@ -97,9 +96,7 @@
 ![LTspice](https://img.shields.io/badge/LTspice-%23000000.svg?style=for-the-badge&logo=analogdevices&logoColor=white)
 
 ### 🧠 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 
